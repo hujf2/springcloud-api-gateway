@@ -11,6 +11,7 @@
     <modules>
         <module>microservice-gateway</module>
         <module>microservice-robot</module>
+        <module>microservice-robot-call</module>
 
     </modules>
 
